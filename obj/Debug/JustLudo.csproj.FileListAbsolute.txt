@@ -1,7 +1,7 @@
 C:\Users\User\source\repos\JustLudo\JustLudo\bin\Debug\JustLudo.exe.config
 C:\Users\User\source\repos\JustLudo\JustLudo\bin\Debug\JustLudo.exe
 C:\Users\User\source\repos\JustLudo\JustLudo\bin\Debug\JustLudo.pdb
+C:\Users\User\source\repos\JustLudo\JustLudo\obj\Debug\JustLudo.csprojAssemblyReference.cache
 C:\Users\User\source\repos\JustLudo\JustLudo\obj\Debug\JustLudo.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\JustLudo\JustLudo\obj\Debug\JustLudo.exe
 C:\Users\User\source\repos\JustLudo\JustLudo\obj\Debug\JustLudo.pdb
-C:\Users\User\source\repos\JustLudo\JustLudo\obj\Debug\JustLudo.csprojAssemblyReference.cache
