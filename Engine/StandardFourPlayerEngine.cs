@@ -39,6 +39,7 @@ namespace JustLudo.Engine
                 new Player("ivan",LudoColor.Yellow)
 
             };
+
                 this.input.GetPlayers(GlobalConstants.NumberOfPLayer);
             gameInitializationStrategy.Initialize(players, this.board);
             this.renderer.RenderBoard(board);

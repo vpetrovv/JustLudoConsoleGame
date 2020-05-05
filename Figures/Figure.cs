@@ -24,54 +24,6 @@
 		public LudoColor Color { get; private set; }
 
 
-		LudoColor getColor()
-		{
-			return color;
-		}
-
-		int getPieceNumber()
-		{
-			return figureNumber;
-		}
-
-		int getX()
-		{
-			return xCoord;
-		}
-
-		int getY()
-		{
-			return yCoord;
-		}
-
-		void setX(int x)
-		{
-			xCoord = x;
-		}
-
-		void setY(int y)
-		{
-			yCoord = y;
-		}
-
-		void setTakenOut(bool mode)
-		{
-			takenOut = mode;
-		}
-
-		bool isTakenOut()
-		{
-			return takenOut;
-		}
-
-		void setCompleted(bool mode)
-		{
-			completed = mode;
-		}
-
-		bool isCompleted()
-		{
-			return completed;
-		}
+		
 	}
 }
