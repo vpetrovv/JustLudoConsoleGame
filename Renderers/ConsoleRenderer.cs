@@ -33,8 +33,7 @@
             Console.WindowWidth = ConsoleCols;
             Console.BufferHeight = ConsoleRows;
             Console.BufferWidth = ConsoleCols;
-            //var startRowPrint = Console.WindowHeight / 2 - (board.TotalRows / 2) * CharactersPerRowPerBoardSquare;
-            //var startColPrint = Console.WindowWidth / 2 - (board.TotalCols / 2) * CharactersPerColPerBoardSquare;
+
             var startRowPrint = 0;
             var startColPrint = 0;
             var currentRowPrint = startRowPrint;
@@ -54,9 +53,7 @@
 
 
 
-                    //var position = Position.FromArrayCoordinates(top, left);
-                    //var figure = board.GetFigureAtPosition(position);
-                    //ConsoleHelpers.PrintFigure(figure, top ConsoleColor.Green);
+
 
 
                     currentRowPrint = startRowPrint + left * CharactersPerRowPerBoardSquare;
@@ -344,7 +341,7 @@
 
                         }
 
-                        // Console.WriteLine("|");
+
 
 
                     }
